@@ -6,11 +6,13 @@
         name="Manuel Lorenz"
         phone-number="01234 0425 24121"
         email-address="manuel@gmail.com"
+        is-favorite="1"
       ></friend-contact>
       <friend-contact
         name="Matias Puletti"
         phone-number="4241 2132 12321"
         email-address="matias@gmail.com"
+        is-favorite="0"
       ></friend-contact>
     </ul>
   </section>
